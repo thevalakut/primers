@@ -45,6 +45,29 @@ Variant-specific land notes are below, but one comment on the basic Mountains he
 
 This is 41 cards, leaving 19 cards specific to the different types.
 
+## General Strategy
+
+The deck is trying to win with a single-turn combo kill, so all the rest of your game plan is setting it up and protecting it and you until you can execute it. Because of that the deck plays a lot more like a BUG or Jund control deck, which happens to finish with Scapeshift. Bring to Light is a powerful tool which can be a win condition but also executes your tap-out control plan by getting all your main-deck and sideboard singletons. having a 4-of tutor lets you get the right card at the right time.
+
+The main consideration when you're playing is ensuring your mana base. It's rare that you can play a game without ramp, so your opening hands you're looking for one with ramp and reasonable access to colours. After that, interaction is more important than having a win condition. With access to 6 scapeshifts plus other win conditions you will usually be able to draw into it.
+
+It's important to think carefully about which lands you fetch and in which order. The mana base has a lot of one-ofs and you have quite ambitious mana costs. Most of your ramp spells will only get basics, of which you have a lot, but you also want to take care to preserve your life total in several matchups, so you may want to fetch basics, assuming you can make all the colours work. Playing your mana around Blood Moon is also very important. Generally as long as you have at least one green source you can draw out of it, since ramp spells are live.
+
+It's usually right to play a ramp spell on turn 2 and start holding up interaction after that. Getting to 4 mana is important since it gives you access to Cryptic and some of your other good spells, or casting multiple spells in a turn.
+
+After securing your mana base, play a board-control game until you can land a finisher. It's usually right to use a Bring to Light early for either ramp or removal. Particularly post-board you may have a haymaker you can get on turn 3 or 4 with Bring to Light. In some matchups that's Madcap Experiment which you may have pre-board. Using a Bring to Light early makes Snapcaster Mage an out as a win condition later.
+
+Counting with Scapeshift:
+
+The most common numbers are:
+
+* 1 Valakut 6 Mountains is 18 damage
+* 1 Valakut 7 Mountains is 21 damage
+* 2 Valakut 6 Mountains is 36 damage
+* 2 Valakut 4 Mountains is 24 damage
+
+Options where you only have 6 mountains in play you need to take care that they can't destroy one without you replacing it (for example, Ghost Quarter and you can still get a Basic Mountain). In that case all but one trigger will fizzle because there aren't enough mountains. You also only have 10 or 11 mountains in this build and two Valakuts. This means you need to be careful how many you fetch of each and know how many are left when you go for the Scapeshift. The second Valakut can allow you to leave some Mountains in play and fetch a smaller number which is still lethal.
+
 ## Base-Blue variants
 
 Mana base:
@@ -108,6 +131,11 @@ Utility:
 * Prismatic Omen - Prismatic Omen can be a bit like a ramp spell, with some upside. It doesn't get you to an early Bring to Light quicker, which is a big downside, given the speed of the format, particularly post board when you want to hit your silver bullets. However, it allows you to scapeshift off 6 lands, fixes for Cryptic Command, even under a Blood Moon (it goes on timestamps) and can give you some higher damage lines if your opponent is on a high life total or you're short on mountains. Probably best in a three-Scapeshift, no one-ofs build.
 * Growth Spiral - The newest entrant here. A good card in an unknown meta, not great but not terrible against anything. It allows you to hold up remand on turn 2 without foregoing ramp, but does require you to have the extra land already to put into play. Good with Snapcaster Mage, but likely to always be your first cut when sideboarding. You're unlikely to play more than Two.
 
+Suggested lists:
+
+* [Black to Light]()
+* [Bring to White]()
+
 ## Base-Black variants
 
 Mana base:
@@ -116,63 +144,89 @@ For Black builds the mana base options are Verdant Catacombs, Blood Crypt and 1 
 
 Discard:
 
-TODO
+The reason to play the base-Black build is when you think that discard spells are more powerful than counterspells. You want to run at least five, above that you can flex between removal and discard as you want. Thoughtseize is definitely the most powerful and the format staple for the effect, with Inquisition of Kozilek as the obvious second choice. You might want a split more like 3 Thoughtseize, 2 Inquisition to try and preserve your life total a little, rather than necessarily all four Thoughtseize.
 
 Removal choices:
 
-TODO
+One of the important things to note about discard over counterspells is that it's worse in matchups where they can topdeck big haymakers. In modern this largely means Tron. The printing that has made this setup possible is Assassin's Trophy, which gives you a main-deck way to keep them off their big mana engine. It also allows you to have main-deck outs to Blood Moon. A good number of Assassin's Trophy is required to shore up the Tron matchup.
 
+Having a mana base which supports early black also allows you to go heavy on black-based removal such as Fatal Push. Running a 3/3 split of Push and Trophy as your point-removal suite is very reasonable. You will also want to have the standard one Damnation and probably an Anger of the Gods, which is again easier to have the mana for when you don't have any triple colour in the deck.
+
+Utility choices:
+
+One of the effects of playing discard is to fill your graveyard quicker and also slow the opponent's game plan. As such, I think that Search for Azcanta is quite a bit better in this version than the blue ones. The other card which gains Snapcaster Mage and I would go up to two of those in this version. Other than that I'd probably try and keep blue spells to a minimum and focus on the Red, Green and Black, although you'll also have some more blue spells in the sideboard
+
+Suggested list:
+
+[Jund to Light]()
 
 ## Sideboard cards
 
-(All TODO)
+Madcap Experiment is one of the things which varies between pilots. Most people will have it somewhere in the 75, although not everyone plays it main. If you're running Madcap then you can't have other artifacts in the 75, since you can't risk hitting them from the Madcap. This primer assumes that you are playing it and so this discussion here will ignore artifacts.
 
-A note on artifacts
+Your sideboard will need a mix of the things below. Graveyard hate can be skipped in appropriate metas, but you'll want some things from all the categories below. One of the main things to do is to ensure you have alternative threats for game two since many people will be finding ways to interact with your main plan. After that you want to look at the number of cards which may be dead in some matchups and that you have enough replacements. It's very common in this deck to sideboard a large number of cards in each matchup, since game 1 you have a lot of generic cards and you'll want to also pivot your plan somewhat.
+
+Making cuts:
+
+In the base Blue build you'll cut Remand a lot, because it's bad in many matchups. Control, Combo and Tron are the exceptions. Cryptic also gets cut in a number of matchups where they'll be putting pressure on your mana base. In all builds you'll cut all the removal spells in matchups they're dead.
+
+Outside of the interaction suite (which you're just trying to improve for the matchup) you'll also cut some ramp (the Hunting Wilds and a tenth ramp spell if you have one) and it's very common to go down to one Scapeshift. This last means that if they have something which stops you going off you only have one dead card. The exception is matchups where it might get exiled (such as with Thoughtknot Seer) or when you just need to race.
+
+It can also be OK to cut a land on the draw - often a Basic Mountain. You have to be in a matchup where you don't worry about running out of mountains and they're not attacking your mana with cards like Field of Ruin. Matchups with Death's Shadow where you just need to be threat-dense can be good candidates. You can also afford to cut a little more ramp in those cases.
 
 Graveyard:
 
-* Leyline of the Void
-* Rest in Peace
-* Ravenous Trap
-* Surgical Extraction
-* Yixlid Jailer
+Dredge, Phoenix and Hollow One are all real decks and can be hard to deal with for us. While they're very common we need to have a significant number of cards for them. Sideboard space is tight, but it's not unreasonable to have up to 6 cards in the 75 once you include Anger of the Gods. A combination of the cards below can be good.
+
+* Leyline of the Void - Leyline is best against the fast graveyard decks like Phoenix and less good against Dredge because of the amount of removal for it they pack. It's also the one you need to play most of and can't be fetched with Bring to Light.
+* Rest in Peace - The best option if you're playing white since it comes down early enough, but you don't have to start it in your opener. It also can't be fetched with Bring to Light.
+* Ravenous Trap - Gives you turn-1 interaction and can get a variety of things on the turn you play it. It is a one-shot effect rather than ongoing, but it can be fetched with Bring to Light to reset their graveyard. Hard for the opponent to interact with.
+* Surgical Extraction - Best in matchups without reduntant pieces. Dredge can survive a surgical, but it's good again Phoenix and reanimator. Less useful to Bring to Light, since it often requires being well timed and doesn't wipe out their whole graveyard.
+* Yixlid Jailer - Best against Dredge since you'll often have time to play it and it shuts down a lot of their plan. Doesn't die to as much removal as Leyline or RIP. Can be Brought to Light.
+* Anger of the Gods - Anger is a good flexible card as just straight removal, but the exile effect makes it an important card for the graveyard decks as well. Often fetched with Bring to Light.
 
 Life gain:
 
-* Obstinate Baloth
-* Pulse of Murasa
-* Huntmaster of the Fells
-* Timely Reinforcements
-* Lone Missionary
+Burn is a tough matchup. Madcap experiment (particularly main) makes it better, but you also need some life gain. There are also other aggro decks where gaining life is important to tide you over until you can win. Most of the cards we run here double up under some of the other categories.
+
+* Obstinate Baloth - The best default choice. A good backup threat which outsizes most aggro cards and 4 life is a decent chunk. Great for getting with Bring to Light. Also very good against Liliana of the Veil and Smallpox.
+* Pulse of Murasa - Can re-buy your other threats including Steve for ramp or just a fetch land if you don't have a land drop in hand. Biggest life swing. 
+* Huntmaster of the Fells - Gives you two bodies for matchups where they could answer a Baloth. Very good against control if they can't answer it. Two life isn't so much though. It is easier to cast under a Blood Moon, however.
+* Timely Reinforcements - An option for the White versions. Good life swing and also gives you blockers on board. Unlikely to win the game, however.
+* Lone Missionary - If you need early life gain in White this is a good choice which gives you a reasonable blocker for small creatures.
 
 Alternative threats:
 
-* Chameleon Colossus
-* Vendilion Clique
-* Tireless Tracker
+Huntmaster and Baloth from the Lifegain section along with Glen Elendra (see below) are our main alternative threats, along with Madcap Experiment and Hunting Wilds if you're playing them. There are a few others that are worth mentioning.
+
+* Chameleon Colossus - Good when all their removal is Black (such as BGx decks), great if their threats are also Black, such as in Grixis Deaths Shadow. Worth a slot if that's significant in the meta, since it can be a hard matchup otherwise.
+* Vendilion Clique - Great in many matchups, particularly control, combo and Shadow where it can provide just enough damage and has evasion. In base-Blue bulids I'll usually run two.
+* Tireless Tracker - Good value creature, particularly in midrange matchups. Doesn't gain life, but can draw a lot of cards if unanswered.
 
 Silver bullets:
 
-* Shatterstorm
-* Crumble to Dust
-* Slaughter Games
-* Unmoored Ego
-* Glen Elendra Archmage
-* Madcap Experiment
-* Back to Nature
+Bring to Light allows us to run one card in the sideboard and have effectively five copies of in, so we can run one-of silver bullets which are good in specific matchups. I wouldn't play anything I could only cast with Bring to Light though.
+
+* Shatterstorm - An automatic include. Great against affinity, Whir and Lantern. The regeneration clause is definitely relevant and you shouldn't play Creeping Corrosion instead.
+* Crumble to Dust - Turns of Tron's mana engine which gives you a lot of extra time and can snag Valakuts against RG builds, but also the mirror. Also worth bringing in for matchups that lean heavily on creature lands like infect, UW control and affinity. 
+* Slaughter Games and Unmoored Ego - For the combo matchups. Best against Ad Nauseam, but also good for Living End and Storm.
+* Glen Elendra Archmage - A counterspell which can be preemptively wished for. Listed here because of how great it is against control and combo. All of those matchups find it very hard to win with a Glen in play, since it either turns off their whole plan, or protects the rest of your spells.
+* Madcap Experiment - Mentioned already, but it's a great silver bullet against Burn and creature matchups which can't answer it. Also stops Ad Naus from winning with Lightning Storm and Storm from winning with Goblins.
+* Back to Nature - Beats Bogles and also opposing leylines. Can be a card to answer Blood Moons, but I'd probably only run it if Bogles was big in the meta since the more flexible cards can answer single cards like Blood Moon.
 
 Removal:
 
-* Maelstrom Pulse
-* Anger of the Gods
-* Izzet Staticaster
-* Destructive Revelry
-* Rending Volley
+Some removal has already been mentioned, such as Anger of the Gods, Back to Nature and Shatterstorm. Here are some other options
+
+* Maelstrom Pulse - A good catchall answer which often has a spot in the sideboard if it's not in the main deck. You need an effect like this somewhere (mostly available if you're in Black). Possibly replaced by Assassin's Trophy, but this will get multiples.
+* Izzet Staticaster - Shuts down a number of strategies. Have this as your answer to Empty the Warrens since it's repeatable and they can flash it back. Very good against Elves, Infect and Affinity.
+* Destructive Revelry - For White builds that don't have so many answers to random permanents this is an answer to Blood Moon which also flexes to artifacts.
+* Ancient Grudge - If affinity is big and you need more removal spells this gives you two shots. It's also harder to deal with for Lantern since they can't just mill it.
+* Rending Volley - An option if the restricted colours and uncounterability is useful.
 
 Counter magic:
 
-* Negate
-* Dispel
+It's usually right to have some other more specific counterspells in the board. Usually these aren't for creatures so the main candidates are Negate and Dispel. Both are good, but the flexibility of Negate is good and we usually have the spare mana. A 2/1 or 3/1 split can be right, or just all Negates.
 
 ## Matchup guides and sideboarding
 
