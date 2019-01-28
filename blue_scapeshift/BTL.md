@@ -135,8 +135,8 @@ These are the alternative win conditions played in the main deck. There will alw
 
 **Suggested lists:**
 
-* [Black to Light](../decklists/Bring%20to%20Light%20-%20RUG%20splash%20Black.md)
-* [Bring to White](../decklists/Bring%20to%20Light%20-%20RUG%20splash%20White.md)
+* [Black to Light](../decklists/Bring%20To%20Light%20-%20RUG%20splash%20Black.md)
+* [Bring to White](../decklists/Bring%20To%20Light%20-%20RUG%20splash%20White.md)
 
 ## Base-Black variants
 
@@ -160,7 +160,7 @@ One of the effects of playing discard is to fill your graveyard quicker and also
 
 **Suggested list:**
 
-[Jund to Light](../decklists/Bring%20to%20Light%20-%20Jund.md)
+[Jund to Light](../decklists/Bring%20To%20Light%20-%20Jund.md)
 
 ## Sideboard cards
 
