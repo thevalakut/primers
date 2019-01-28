@@ -1,5 +1,7 @@
 # Bring to Light Scapeshift Primer
 
+*by Matthew Johnson - updated Jan 2019*
+
 Bring to Light is a 4-colour combo-control deck centered around the ability to tutor up the best card for the moment with [Bring to Light](https://scryfall.com/search?q=Bring%20to%20Light). It is a deck full of interaction that you can tailor for the particular matchup and metagame. You specifically want to be able to get [Scapeshift](https://scryfall.com/search?q=Scapeshift) to have a combo kill with [Valakut, the Molten Pinnacle](https://scryfall.com/search?q=Valakut,%20the%20Molten%20Pinnacle), which you can use as early as turn 4. This commits you to running 4 colours. Blue and Green are required by Bring to Light and Red is implied by the number of mountains required for the Scapeshift kill.
 
 ## Variants
@@ -133,8 +135,8 @@ These are the alternative win conditions played in the main deck. There will alw
 
 **Suggested lists:**
 
-* [Black to Light](../decklists/Bring to Light - RUG splash Black)
-* [Bring to White](../decklists/Bring to Light - RUG splash White)
+* [Black to Light](../decklists/Bring%20to%20Light%20-%20RUG%20splash%20Black)
+* [Bring to White](../decklists/Bring%20to%20Light%20-%20RUG%20splash%20White)
 
 ## Base-Black variants
 
@@ -158,7 +160,7 @@ One of the effects of playing discard is to fill your graveyard quicker and also
 
 **Suggested list:**
 
-[Jund to Light](../decklists/Bring to Light - Jund)
+[Jund to Light](../decklists/Bring%20to%20Light%20-%20Jund)
 
 ## Sideboard cards
 
@@ -226,8 +228,175 @@ Some removal has already been mentioned, such as Anger of the Gods, Back to Natu
 
 **Counter magic:**
 
-It's usually right to have some other more specific counterspells in the board. Usually these aren't for creatures so the main candidates are Negate and Dispel. Both are good, but the flexibility of Negate is good and we usually have the spare mana. A 2/1 or 3/1 split can be right, or just all Negates.
+It's usually right to have some other more specific counterspells in the board. Usually these aren't for creatures so the main candidates are [Negate](https://scryfall.com/search?q=Negate) and [Dispel](https://scryfall.com/search?q=Dispel). Both are good, but the flexibility of Negate is good and we usually have the spare mana. A 2/1 or 3/1 split can be right, or just all Negates.
 
 ## Matchup guides and sideboarding
 
-(All TODO)
+These guides list some sample sideboard cards and cuts. You may have a slightly different selection of them, so this is just a sample.
+
+**Phoenix**
+
+Arclight Phoenix is the big dog in Modern at the moment. It's capable of some very fast starts, which can be hard to beat. If you can stave off their fast starts then you have a reasonable game against them since you can answer most of their slow threats very well. Not dieing on turn 3 is the priority, but once you've managed that you want to setup for your own combo win. Watch out for Blood Moon post-board.
+
+*In:* All your graveyard hate
+
+**Burn**
+Burn is the primary reason to have main-deck Platinum Emperion. At GP Birmingham I lost my last two rounds to Burn. Both games followed the same pattern: Game 1 I kept blind and missed on an early Madcap or BTL and remands weren't enough to save me. Game 2 they scooped to a turn 4 Emperion. Game 3 they kept a 7 with path / destructive revelry and enough burn to kill me on turn 4 or 5 after removing it, since they were on the play. Without the Emperion your game one is very hard against Burn and post-board they do have draws to beat it, so relying on winning both post-board games is hard.
+
+With Emperion you get a lot of free game 1s and then they have to beat it in both of the game 2s. You do also have life-gain plans post board, but Skullcrack is omnipresent and sometimes so is Atarka's Command. I've lost games to them Cracking my Baloth as well. I will generally go for Madcap over Baloth if they've not seen it yet, or if they have mana up. It can be right if they're tapped out to make Baloth since you know the life gain will resolve, particularly if they have creatures in play.
+
+Most burn players these days are not sideboarding Blood Moon, but you need to at least consider it.
+
+*In:* Obstinate Baloth, Glen Elendra Archmage, Negate, Dispel, Pulse of Murasa, Maelstrom Pulse
+
+
+
+This matchup is all about early interaction and racing to Madcap or BTL. Remand is terrible against them and Cryptic is hard to cast when you're prioritizing basics over shocks and want to make GG for Baloths. 
+
+**UWx Control**
+
+You're the combo deck and they are the control deck. Game 1 you just want to try and setup your game plan and try and force it through any counterspell that they have. Game 2 you can bring in some alternative threats along with more counterspells, and cut your useless removal. Glen Elendra is the MVP post-board and Huntmaster can steal games if they can't answer it immediately. You need to win before the late game or the UW player will bury you in card advantage. One of the most important aspects for us to leverage is a mana advantage. Being able to pay for more counterspells on the combo turn is how you win.
+
+*In:* Glen Elendra Archmage, Vendilion Clique, Huntmaster of the Fells, Tireless Tracker, Negate, Dispel, Crumble to Dust
+
+Bring in the creatures which interact with them and counterspells. Crumble is marginal, but taking our their Collonades can reduce their number of win conditions significantly and you will usually have enough cuts.
+
+**Titan Shift**
+
+They have a more reliable clock, but you have counterspells. It's a generally favourable matchup because of that. It is a matchup where you need to be very familiar with the lines in their deck so you know when you can tap out for your own ramp spells and when you need to hold up counterspells. It can be possible to buy yourself a turn by staying above 18, but shocking to have cryptic up is usually more important. In the long game they can win just by making natural Valakut and land drops, so your plan it to beat their quick combos with counterspells and then scapeshift yourself.
+
+Post board you have even more ways to interact with them.
+
+*In:* Vendilion Clique, Glen Elendra Archmage, Slaughter Games, Negate, Dispel, Maelstrom Pulse, Crumble to Dust
+
+
+
+The Crumble is to go after Valakut if they have exactly 1 in play. What you name with Slaughter Games depends on the board state and what you think you can beat. Scapeshift is the thing that beats you on the spot so is the default thing to take.
+
+**Eldrazi Tron**
+
+Eldrazi Tron is a midrange creature deck with limited interaction. This makes it relatively favourable. Remand is usually very live since most lists at the moment only play a single cavern and it will buy their whole turn 3 tapping out for Thought-Knot Seer. TKS is their main form of interaction, so you may find yourself having to top-deck a win condition. Platinum Emperion will buy you a lot of turns since Karn is their only out and they normally only run two. Sultai charm is a lot worse, but they do sometimes have chalices you want to get rid of.
+
+*In:* Obstinate Baloth, Chameleon Colossus, Vendilion Clique, Maelstrom Pulse
+
+
+
+A trick to watch out for: if you have to discard to Reality Smasher then discarding Baloth will trigger the put into play clause, since they control the ability of Smasher. Also don't forget that post-board they can have counterspells for your Bring to Light and Scapeshift.
+
+**Humans**
+
+Humans is an aggro deck backed up by disruptive creatures. They can have a very quick clock and the creatures can quickly get out of range of your Red removal. Counterspells are also bad because of the Cavern of Souls and Aether Vial, although Cryptic tapping their creatures down or bouncing their creatures is very good.
+
+Removal is how you win the matchup, it's primarily about trying to be the control deck. You can't do it for too long, however, as they have a lot of threats, and several of them have haste. Having a diversity of removal is useful because they play Meddling Mage and you often need them to guess wrong.
+
+Madcap experiment can hold them off for a while, although they have Reflector Mage to bounce it.
+
+*In:* Anger of the Gods, Obstinate Baloth, Huntmaster of the Fells, Maelstrom Pulse
+
+
+Your ground creatures can help to stabilize and any extra hard removal is good. Izzet Staticaster isn't, however, since most things will be bigger than 1 toughness.
+
+**Spirits**
+
+Spirits is also an aggro deck backed up by disruptive creatures, but they interact more on the stack. Again removal is good, but you should focus most on sweepers, since they have several ways to give things hexproof. Their best card against you is Spell Queller. Often a removal spell afterwards can answer it, but take care that lots of their cards have 3 CMC so you may need to be careful to make sure that Fatal Push is online.
+
+They are more of a tempo deck than pure aggro, so they'll be trying to stop your interactive spells and win conditions. You need to be able to answer that when you go for big spells. They can also have counterspells out of the board. They also have both Cavern of Souls and Aether Vial to play around counterspells. Out of the board, Worship is a common card you need to be able to beat to win. Doing so by removing all their creatures can be hard given flash creatures, Aether Vial and Moorland Haunt.
+
+*In:* Anger of the Gods, Vendilion Clique, Glen Elendra Archmage, Maelstrom Pulse
+
+All of their creatures are evasive, so the big ground dorks aren't useful, but all your fliers are.
+
+**Ad Nauseam**
+
+Ad Nauseam is a hard matchup. This is not to say necessarily a bad matchup, but it's very difficult to play. You're playing counterspells which they need to play around. On the other side, they have Angel's Grace, so tapping out to try and Scapeshift them is also risky. Madcap is good in this matchup since it turns off their main win condition. They will still have Laboratory Maniac to win with, but it buys you a couple of turns since they need extra mana and can often be awkward to execute. It also provides you a repeatable clock to beat with forcing them to use Angel's Graces. Main deck you also have a lot of dead cards.
+
+*In:* Slaughter Games, Glen Elendra Archmage, Negate, Dispel, Maelstrom Pulse, Vendilion Clique
+
+
+
+Don't keep in answers to Lab Man, since if they get that far they have probably drawn their whole deck and have multiple pacts of negation to answer removal spells. The one thing to consider is that they probably have a Dromoka or a Sigarda to board in which can steal games if cast early. 
+
+Slaughter Games will usually name Ad Nauseam unless you have a specific reason not to. The Vendilion Cliques gives you an early piece of disruption which can give you a clock while you hold up counterspells for their combo. Glen does the same while also providing counterspells that their Pacts of Negation don't answer and is possibly the best card in the matchup.
+
+**Storm**
+
+Storm plays similar to Ad Nauseam. Their answers to your combo are remand, which you can at least respond to, and your removal spells are not dead main deck since killing their creatures is crucial. Your Madcap answers Empty the Warrens if they try and win via that route. It's another deck that you have to be careful tapping out against, since they can win on the spot if they untap with a creature in play and sometimes with nothing in play if they have 4 or even 3 lands available.
+
+*In:* Glen Elendra Archmage, Vendilion Clique, Negate, Dispel, Slaughter Games, Izzet Staticaster, Leyline of the Void, Ravenous Trap
+
+You need to leave in some point removal for their creatures. Madcap answers Empty the Warrens, as does Izzet Staticaster, which is the sweeper of choice since it also kills them the second time they cast everything. Slaughter games will often go after Grapeshot since we have answers to Empty, but Gifts Ungiven is also a very reasonable target since it's hard for them to win without it. This is another matchup where Glen is MVP. You'll normally want to counter Gifts or Past in Flames, but do be aware that they can have a natural Empty the Warrens. The graveyard interaction also counters their Gifts and Past in Flames lines, which is how they normally win.
+
+**Gx Tron**
+
+Against us Tron is very much a combo deck. An early Karn is beatable but hard. Ulamog is almost always game over. To counteract that they have very little way to interact outside of that and all our counterspells are live. Remand is very good here because it will usually buy their whole turn. Game 1 is very dependent on the dice roll and their draw. If they make Tron on turn 3 on the play with a threat they're heavily favoured. If we can get a couple of ramp spells down and hold up counterspells before they make Tron it's a lot better. The addition of Assassin's Trophy makes keeping them off Tron even pre-board very real.
+
+*In:* Crumble to Dust, Maelstrom Pulse, Slaughter Games, Glen Elendra Archmage, Negate, Vendilion Clique
+
+Your main plan post board is to get an early Crumble to take them off making Tron. They can still make land drops and play natural 6 and 7 drops, but it gives you a lot of time. Draw-step Cliques can keep them off threats. Slaughter Games could name several things and is mostly there because the other cards are worse. Karn or Ulamog are most likely. You can afford to cut some of your removal that does work against them because Wurmcoils don't stop you winning and Ulamog is indestructible anyway. You keep bolts to kill a Karn that's gone -3.
+
+They will bring in Thragtusk so watch their life total but also Warping Wail which can get both Scapeshift and Crumble to Dust.
+
+**Affinity**
+
+Pre-board this matchup is die-roll dependent and depends on our draw. Remand is terrible against them and cryptic often slow or they can play around it with creatur lands. An early Damnation is probably the best way to win, but can still lose to a Cranial Plating-heavy draw. As with any deck against Affinity killing Overseers on sight is required and we have many ways to do that. You also have Sultai Charm as a main-deck answer to plating.
+
+Platinum Emperion is only OK against Affinity. They can still kill you with infect and they can also gain enough life with a plating on a Vault Skirge to put your Scapeshift out of reach while also presenting a blocker to trade with the Emperion. It's better against the Hardened Scales version. 
+
+*In:* Anger of the Gods, Maelstrom Pulse, Shattershorm, Izzet Staticaster, Glen Elendra Archmage, Vendilion Clique, Crumble to Dust, Negate, Obstinate Baloth
+
+
+
+This is the matchup most likely to board into Blood Moon. This is very beatable as long as you fetch lands appropriately. If you do then it will typically screw them more by turning off all their creature lands. It is why we board in all the creatures to have an alternative way to win. You do have Sultai Charm and Maelstrom Pulse to destroy moon if you can then win with scapeshift but often it will be better to leave them under the Blood Moon and win via an alternative route.
+
+The flyers give you the ability to trade with their creatures and if you can stop them getting an active Master or Overseer Staticaster kills almost everything. Shatterstorm is obviously the MVP and you should try and turn-4 one as often as possible. They will sometimes have Welding Jars so it's important to be Shatterstorm and not Creeping Corrosion. They can still come back from that, so it's not a panacea. The most contraversial include is probably Crumble to Dust. I think taking away one of their two creature lands is potentially worthwhile.
+
+**R/G/W Land Destruction / Ponza**
+
+The main-deck blood moon and land destruction deck would seem to be good against us. However, it's a surprisingly winnable matchup, particularly if they don't know the matchup. You have Sultai Charm as a main-deck answer to Blood Moon and Madcap Experiment as an alternative win condition if all your lands are mountains. Fetching basics is very important pre and post-board to make sure that you can cast spells still but if you do, you should be in good shape. They have no hand disruption or counter spells so if you can get enough lands in play you're favoured.
+
+Sideboarding depends on exactly their plan, in particular if they're playing Nahiri. A good rule of thumb is:
+
+*In:* All of your creatures, Negate, Maelstrom Pulse, Pulse of Murasa
+
+
+
+You're giving up on getting triple-blue in play against these decks and Scapeshift is very much the backup plan. They will probably go all-in in keeping you off Scapeshift, so get Forest Forest Island Swamp in play and just cast your other threats. Hunting Wilds is a very relevant alternate win condition under Blood Moon.
+
+**Grixis Shadow**
+
+Main deck they have draws which are very hard for us to beat. Triple-discard, or T1 discard into T2 angler are tricky starts for most people. We do have live removal and most games you will have live draws for answers. Steve is also good at buying time in this matchup, since they will often be attacking with a single creature.
+
+Games in this matchup can often go quite long and rely heavily on your top-decks. For sideboarding I want to maximize my live draws and hitting ramp early is less important. It's also a matchup where you don't need all 11 mountains, since the shadow player will have done most of the work for you. They do have answers to Platinum Emperion though.
+
+*In:* Obstinate Baloth, Chameleon Colossus, Maelstrom Pulse, Vendilion Clique, Dispel, Negate, Glen Elendra Archmage, Pulse of Murasa
+
+
+
+The best card in the matchup and the one you should tutor for if you get the opportunity is Chameleon Colossus. Cliques you can end-step when they're on low life to finish them off and Pulse of Murasa allows you to rebuy something that's been discarded. The reason for the asymmetry of the cuts is that while STEve is better because it can block, their turn 1 discard will often take ramp spells. Search can get under that, but only on the play.
+
+**Others**
+
+For most decks you play against you can tune your deck post-board to answer their game plan or protect yours. In many matchups your post-board games will be won with creatures rather than Scapeshift. Here are some quick notes:
+
+*Hate bears:* Removal is king. Leonin Arbiter and Mindcensor are their best carhs and must-answers. I cut a Bring to Light because of that. They will often also board in Canonist or Eidolon of Rhetoric as well.
+
+*Merfolk:* Board in sweepers and answers to counterspells
+
+*Company Combo:* The adage 'bolt the bird' is wrong in this matchup. Save removal for counterspells or sweepers for a board after they've used up their cards. Infinite life beats you even with a Platinum Emperion in play.
+
+*Bogles:* Our removal is mostly dead. I'd consider a Back to Nature in the board if you expect this
+
+*Mono-blue Tron:* It's a counterspell matchup first and foremost. Post board you have Crumble to make theirs all bad. Watch out for their fun-of artifacts they can loop. You can lose to mindslaver or jesters cap.
+
+*Gx Midrange:* Discard is their only options to beat you. Bring in the Baloths for Liliana and Chameleon Colossus which can't be killed by Jund. Anger is good against Junk and Pulse of Murasa rebuys creature threats. Cut Madcap, they have lots of removal.
+
+*Lantern Control:* This is a relatively good matchup. Bridge doesn't stop your combo. Shatterstorm is MVP and Pulse of Murasa can rebuy things which were milled. Do bring in creatures since you can answer bridge and you want to maximise threats.
+
+*Elves:* Kill everything, board in all your sweepers. They can have quick draws, but they have few or no main-deck answers to Madcap. You can probably steal one game with that before they board in answers.
+
+*Dredge:* We're playing to race dredge primarily. There's no graveyard interaction, so your main answer is Anger of the Gods.
+
+*Living End:* Counterspells are excellent, particularly remand. We're the control in this matchup. Their only interaction is Fulminators. Slaughter Games for Living End is GG.
+
+*Goryo's Vengence:* You're leaning on your counterspells, but a T2 or T3 combo on the play will kill you. Pulse of Murasa can give them back the card they're targetting with Vengence.
+
