@@ -246,7 +246,7 @@ W/B Eldrazi Taxes
 
 
 
-**Gameplay, Tips and tricks - Corner case situations	**
+**Gameplay, Tips and tricks - Corner case situations**
 
 Quick note on the mulligan - as said in the introduction you should be trying to have some acceleration to reach you end game faster. However, you may already know that in some matchups it's more important to be able to first stabilise. Trying to do so might force you to keep some hands without acceleration but interactions/sideboard cards. Make sure to know what role you should have in different matchups. As a rule of thumb you can always assume you will need to take the control seat vs decks faster than you and adopt an aggressive gameplan when facing slower decks.
 
@@ -261,4 +261,5 @@ It is possible to interact with Valakut triggers, not by removing Valakut itself
 * Fulminator mage - You will see it coming, just fetch one more Mountain
 * Cryptic Command - some tricky player might let you resolve it on 7 lands and just bounce one mountain on resolution taking only 3 damage. This way they will get rid of many potential triggers and might put you in a weird spot if you just fetched all basics to close the game.
 * Beast within - Not played that much but pay attention to it vs Living End.
+
 
