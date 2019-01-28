@@ -1,12 +1,12 @@
 # Bring to Light Scapeshift Primer
 
-Bring to Light is a 4-colour combo-control deck centered around the ability to tutor up the best card for the moment with Bring to Light. It is a deck full of interaction that you can tailor for the particular matchup and metagame. You specifically want to be able to get Scapeshift to have a combo kill which you can use as early as turn 4. This commits you to running 4 colours. Blue and Green are required by Bring to Light and Red is implied by the number of mountains required for the Scapeshift kill.
+Bring to Light is a 4-colour combo-control deck centered around the ability to tutor up the best card for the moment with [Bring to Light](https://scryfall.com/search?q=Bring%20to%20Light). It is a deck full of interaction that you can tailor for the particular matchup and metagame. You specifically want to be able to get [Scapeshift](https://scryfall.com/search?q=Scapeshift) to have a combo kill with [Valakut, the Molten Pinnacle](https://scryfall.com/search?q=Valakut,%20the%20Molten%20Pinnacle), which you can use as early as turn 4. This commits you to running 4 colours. Blue and Green are required by Bring to Light and Red is implied by the number of mountains required for the Scapeshift kill.
 
 ## Variants
 
 There are three principle variants. Two decks where Blue/Green are the primary colours and one which is base Black/Green/Red and Blue is the splash.
 
-The base-Blue decks are centered around counter spells, particularly Cryptic Command and Remand. The splash colours enable Bring to Light with four colours and control cards, usually removal.
+The base-Blue decks are centered around counter spells, particularly [Cryptic Command](https://scryfall.com/search?q=Cryptic%20Command) and [Remand](https://scryfall.com/search?q=Remand). The splash colours enable Bring to Light with four colours and control cards, usually removal.
 
 The base-Black deck is centered around discard and board control rather than counter spells.
 
@@ -18,30 +18,30 @@ The base-Black deck is best in metas where counter spells, particularly Remand, 
 
 The core of the deck is the ramp, mana base and win conditions.
 
-Ramp:
+**Ramp:**
 
-* 4 Search for Tomorrow
-* 4 Sakura-Tribe Elder
-* 1 two-land ramp spell (usually either Hunting Wilds or Kodama's Reach)
+* 4 [Search for Tomorrow](https://scryfall.com/search?q=Search%20for%20Tomorrow)
+* 4 [Sakura-Tribe Elder](https://scryfall.com/search?q=Sakura-Tribe%20Elder)
+* 1 two-land ramp spell (usually either [Hunting Wilds](https://scryfall.com/search?q=Hunting%20Wilds) or [Kodama's Reach](https://scryfall.com/search?q=Kodama's%20Reach))
 
-Win conditions:
+**Win conditions:**
 
-* 4 Bring to Light
-* 2 Scapeshift
+* 4 [Bring to Light](https://scryfall.com/search?q=Bring%20to%20Light)
+* 2 [Scapeshift](https://scryfall.com/search?q=Scapeshift)
 
-Mana base:
+**Mana base:**
 
-* 2 Valakut, the Molten Pinnacle
-* 4 Stomping Ground
-* 4 Green-x fetches (Misty Rainforest or Verdant Catacombs)
-* 4 Red-x Shocklands (Steam Vents or Blood Crypts)
-* 1 Breeding Pool
-* 1 Watery Grave
-* 1 Overgrown Tomb
-* 8 Basic lands (including 2 Mountains, 2 Forest, 1 Island, 1 Swamp)
-* 1 flex slot (Overgrown Tomb, Cinder Glade, Flooded Grove, Blood Crypt)
+* 2 [Valakut, the Molten Pinnacle](https://scryfall.com/search?q=Valakut,%20the%20Molten%20Pinnacle)
+* 4 [Stomping Ground](https://scryfall.com/search?q=Stomping%20Ground)
+* 4 Green-x fetches ([Misty Rainforest](https://scryfall.com/search?q=Misty%20Rainforest) or [Verdant Catacombs](https://scryfall.com/search?q=Verdant%20Catacombs))
+* 4 Red-x Shocklands ([Steam Vents](https://scryfall.com/search?q=Steam%20Vents) or [Blood Crypt](https://scryfall.com/search?q=Blood%20Crypt)s)
+* 1 [Breeding Pool](https://scryfall.com/search?q=Breeding%20Pool)
+* 1 [Watery Grave](https://scryfall.com/search?q=Watery%20Grave)
+* 1 [Overgrown Tomb](https://scryfall.com/search?q=Overgrown%20Tomb)
+* 8 Basic lands (including 2 [Mountain](https://scryfall.com/search?q=Mountain), 2 [Forest](https://scryfall.com/search?q=Forest), 1 [Island](https://scryfall.com/search?q=Island), 1 [Swamp](https://scryfall.com/search?q=Swamp))
+* 1 flex slot ([Overgrown Tomb](https://scryfall.com/search?q=Overgrown%20Tomb) #2, [Cinder Glade](https://scryfall.com/search?q=Cinder%20Glade), [Flooded Grove](https://scryfall.com/search?q=Flooded%20Grove), [Blood Crypt](https://scryfall.com/search?q=Blood%20Crypt))
 
-Variant-specific land notes are below, but one comment on the basic Mountains here. Since the printing of Field of Ruin and Assassin's Trophy there's a higher number of land destruction cards which replace with a land. We need to be able to get a basic after Scapeshift if they destroy a Mountain in response to the triggers to avoid the triggers fizzling, so we run two to ensure we always have one to get.
+Variant-specific land notes are below, but one comment on the basic Mountains here. Since the printing of [Field of Ruin](https://scryfall.com/search?q=Field%20of%20Ruin) and [Assassin's Trophy](https://scryfall.com/search?q=Assassin's%20Trophy) there's a higher number of land destruction cards which replace with a land. We need to be able to get a basic after Scapeshift if they destroy a Mountain in response to the triggers to avoid the triggers fizzling, so we run two to ensure we always have one to get.
 
 This is 41 cards, leaving 19 cards specific to the different types.
 
@@ -51,13 +51,13 @@ The deck is trying to win with a single-turn combo kill, so all the rest of your
 
 The main consideration when you're playing is ensuring your mana base. It's rare that you can play a game without ramp, so your opening hands you're looking for one with ramp and reasonable access to colours. After that, interaction is more important than having a win condition. With access to 6 scapeshifts plus other win conditions you will usually be able to draw into it.
 
-It's important to think carefully about which lands you fetch and in which order. The mana base has a lot of one-ofs and you have quite ambitious mana costs. Most of your ramp spells will only get basics, of which you have a lot, but you also want to take care to preserve your life total in several matchups, so you may want to fetch basics, assuming you can make all the colours work. Playing your mana around Blood Moon is also very important. Generally as long as you have at least one green source you can draw out of it, since ramp spells are live.
+It's important to think carefully about which lands you fetch and in which order. The mana base has a lot of one-ofs and you have quite ambitious mana costs. Most of your ramp spells will only get basics, of which you have a lot, but you also want to take care to preserve your life total in several matchups, so you may want to fetch basics, assuming you can make all the colours work. Playing your mana around [Blood Moon](https://scryfall.com/search?q=Blood%20Moon) is also very important. Generally as long as you have at least one green source you can draw out of it, since ramp spells are live.
 
 It's usually right to play a ramp spell on turn 2 and start holding up interaction after that. Getting to 4 mana is important since it gives you access to Cryptic and some of your other good spells, or casting multiple spells in a turn.
 
-After securing your mana base, play a board-control game until you can land a finisher. It's usually right to use a Bring to Light early for either ramp or removal. Particularly post-board you may have a haymaker you can get on turn 3 or 4 with Bring to Light. In some matchups that's Madcap Experiment which you may have pre-board. Using a Bring to Light early makes Snapcaster Mage an out as a win condition later.
+After securing your mana base, play a board-control game until you can land a finisher. It's usually right to use a Bring to Light early for either ramp or removal. Particularly post-board you may have a haymaker you can get on turn 3 or 4 with Bring to Light. In some matchups that's [[Madcap Experiment] which you may have pre-board. Using a Bring to Light early makes [Snapcaster Mage](https://scryfall.com/search?q=Snapcaster%20Mage) an out as a win condition later.
 
-Counting with Scapeshift:
+**Counting with Scapeshift:**
 
 The most common numbers are:
 
@@ -66,99 +66,99 @@ The most common numbers are:
 * 2 Valakut 6 Mountains is 36 damage
 * 2 Valakut 4 Mountains is 24 damage
 
-Options where you only have 6 mountains in play you need to take care that they can't destroy one without you replacing it (for example, Ghost Quarter and you can still get a Basic Mountain). In that case all but one trigger will fizzle because there aren't enough mountains. You also only have 10 or 11 mountains in this build and two Valakuts. This means you need to be careful how many you fetch of each and know how many are left when you go for the Scapeshift. The second Valakut can allow you to leave some Mountains in play and fetch a smaller number which is still lethal.
+Options where you only have 6 mountains in play you need to take care that they can't destroy one without you replacing it (for example, [Ghost Quarter](https://scryfall.com/search?q=Ghost%20Quarter) and you can still get a Basic Mountain). In that case all but one trigger will fizzle because there aren't enough mountains. You also only have 10 or 11 mountains in this build and two Valakuts. This means you need to be careful how many you fetch of each and know how many are left when you go for the Scapeshift. The second Valakut can allow you to leave some Mountains in play and fetch a smaller number which is still lethal.
 
 ## Base-Blue variants
 
-Mana base:
+**Mana base:**
 
 For Blue builds the mana base options are Misty Rainforest, Steam Vents and 3 Islands, 2 Mountains, 2 Forest and 1 Swamp. The flex slot can be any of the listed options depending on how many Mountains you want and how many Black sources, which will depend on the rest of your deck choices. You need at least 10 Mountains in the deck, but I recommend 11 if you can at all manage it. There can be situations that you run the risk of running out.
 
-Counter spells:
+**Counter spells:**
 
 In the main deck we typically play 3 Cryptic Commands and 3 Remands and a flex slot or two. Options for other counterspells include:
 
-* Izzet Charm - Flexible counter spell, removal and card selection.
-* Ojutai's Command - Provides life gain and combos with both Sakura-Tribe Elder and Snapcaster Mage, cantripping like Cryptic Command while having a significantly easier casting cost. Main-deck help for the burn matchup.
+* [Izzet Charm](https://scryfall.com/search?q=Izzet%20Charm) - Flexible counter spell, removal and card selection.
+* [Ojutai's Command](https://scryfall.com/search?q=Ojutai's%20Command) - Provides life gain and combos with both Sakura-Tribe Elder and Snapcaster Mage, cantripping like Cryptic Command while having a significantly easier casting cost. Main-deck help for the burn matchup.
 
 For further options see Sideboard cards below. 
 
-Removal:
+**Removal:**
 
-Typically the deck will play at least one sweeper, usually a four mana hard wrath, plus either 0 or 1 Anger of the Gods and a number of point removal spells.
+Typically the deck will play at least one sweeper, usually a four mana hard wrath, plus either 0 or 1 [Anger of the Gods](https://scryfall.com/search?q=Anger%20of%20the%20Gods) and a number of point removal spells.
 
 The wrath is typically either:
 
-* Damnation if playing Black.
-* Supreme Verdict if playing White.
+* [Damnation](https://scryfall.com/search?q=Damnation) if playing Black.
+* [Supreme Verdict](https://scryfall.com/search?q=Supreme%20Verdict) if playing White.
 
-Both uncounterability and the regeneration clause are relevent in the format. White gets to choose and can run Wrath of God instead, but usually uncounterability is the choice if it's available.
+Both uncounterability and the regeneration clause are relevent in the format. White gets to choose and can run [Wrath of God](https://scryfall.com/search?q=Wrath%20of%20God) instead, but usually uncounterability is the choice if it's available.
 
 Anger of the Gods is main deck when graveyard strategies are good or go-wide aggro strategies where you need to wrath earlier and often. If not, you can forego the maindeck copy and just bring one in from the side.
 
 Removal options include:
 
-* Lightning Bolt - A generic catch-all which also can be removal for Planeswalkers and can reduce the opponent's life total below 18 for matchups which don't take pain from their mana base.
-* Fatal Push - One of the reasons to play black. Deals with many high-toughness threats for only one mana, such as Tarmogoyf and Death's Shadow. Care should be taken when you need to kill three and four CMC threats, since your only ways to enable revolt are 4 fetch lands and Sakura-Tribe Elder.
-* Abrupt Decay - Flexible removal for any permanent type and the uncounterability is relevant. Creature lands and some 4-CMC threats (such as Thought-Knot Seer) are a reason that Fatal Push can still be better. Kills Blood Moon.
-* Assassin's Trophy - Hard removal for permanents of all types, toughness and mana costs. The downside of getting a land is definitely real, but we're not trying to go long, often just needing to stall long enough to get to our win condition. Kills Blood Moon and interacts with Tron lands.
-* Path to Exile - If Path to Exile is good then this is one of the draws of playing the white splash. It will answer any creature of any size or mana cost.
+* [Lightning Bolt](https://scryfall.com/search?q=Lightning%20Bolt) - A generic catch-all which also can be removal for Planeswalkers and can reduce the opponent's life total below 18 for matchups which don't take pain from their mana base.
+* [Fatal Push](https://scryfall.com/search?q=Fatal%20Push) - One of the reasons to play black. Deals with many high-toughness threats for only one mana, such as Tarmogoyf and Death's Shadow. Care should be taken when you need to kill three and four CMC threats, since your only ways to enable revolt are 4 fetch lands and Sakura-Tribe Elder.
+* [Abrupt Decay](https://scryfall.com/search?q=Abrupt%20Decay) - Flexible removal for any permanent type and the uncounterability is relevant. Creature lands and some 4-CMC threats (such as Thought-Knot Seer) are a reason that Fatal Push can still be better. Kills Blood Moon.
+* [Assassin's Trophy](https://scryfall.com/search?q=Assassin's%20Trophy) - Hard removal for permanents of all types, toughness and mana costs. The downside of getting a land is definitely real, but we're not trying to go long, often just needing to stall long enough to get to our win condition. Kills Blood Moon and interacts with Tron lands.
+* [Path to Exile](https://scryfall.com/search?q=Path%20to%20Exile) - If Path to Exile is good then this is one of the draws of playing the white splash. It will answer any creature of any size or mana cost.
 
 The above can often be present in multiples. There are also some other options which are usually only found as one-ofs:
 
-* Terminate - A good option if you want a hard removal spell for things you can't Push or Decay. Somewhat replaced by Assassin's Trophy, but doesn't have the downside and does have the no-regen clause.
-* Sultai Charm - Another main-deckable option for destroying Blood Moon, Leyline of Sanctity or other permanent-based hate. The mono-coloured restriction is not a free-roll with Humans, Spirits and Eldrazi in the format, but it usually has targets even in those matchups. The backup mode is very good though, you don't go down a card like you do with Izzet Charm.
-* Maelstrom Pulse - Another catch-all card which can answer Blood Moon. Mostly eclipsed by either Sultai Charm or Assassin's Trophy, but the ability to catch things in multiples can be useful.
+* [Terminate](https://scryfall.com/search?q=Terminate) - A good option if you want a hard removal spell for things you can't Push or Decay. Somewhat replaced by Assassin's Trophy, but doesn't have the downside and does have the no-regen clause.
+* [Sultai Charm](https://scryfall.com/search?q=Sultai%20Charm) - Another main-deckable option for destroying Blood Moon, Leyline of Sanctity or other permanent-based hate. The mono-coloured restriction is not a free-roll with Humans, Spirits and Eldrazi in the format, but it usually has targets even in those matchups. The backup mode is very good though, you don't go down a card like you do with Izzet Charm.
+* [Maelstrom Pulse](https://scryfall.com/search?q=Maelstrom%20Pulse) - Another catch-all card which can answer Blood Moon. Mostly eclipsed by either Sultai Charm or Assassin's Trophy, but the ability to catch things in multiples can be useful.
 
 Most of these options are black, except for Path to Exile and if you want to lean more on removal then having black as your splash is recommended. If you think that Lightning Bolt is good in the metagame then it is possible to play with just Bolt and a sweeper as your removal spell, which allows you to pick either splash. The early 2019 metagame, however, has a lot of Humans, Spirits and Eldrazi decks which require you to lean more towards removal and which bolt is not always good, so it's likely that black with Push and some of the hard removal options are probably the best.
 
-Win conditions:
+**Win conditions:**
 
 While our main plan is to win with Scapeshift, it is important to have a secondary win condition. If that win condition can be fetched with Bring to Light then one card can be five ways to play it. Your choice of other win conditions also affects the number of Scapeshifts that you play. Generally you should play either two or three. It is possible to just play a fourth Cryptic Command over the third Scapeshift, but usually you want to play a win condition in that slot.
 
-* Madcap Experiment - This one-card combo with Platinum Emperion can be fetched by Bring to Light as early as turn three. It's excellent against burn (one of the few ways to have a good pre-board matchup against them) and Elves (which is a free win game one). It's also very good against the other creature and tribal decks, although they will often have some way to remove it, so you may have a choice of whether to fetch this or your sweeper if you're casting Bring to Light. Other matchups it can be a road bump (storm needs +8 and can't win with goblins, ad naus can't win with Lightning Storm) and removing it with Path does accelerate you to Scapeshift. The downside of Madcap is poor hands when you draw the Platinum Emperion, slightly increasing the number of hands you'll need to mulligan. It is possible to hard cast, however, so drawing it isn't terminal.
-* Jace, the Mind Sculptor - Jace is in the abstract a very good card and is also very castable in this deck. You can't get it with Bring to Light, but it is very good at digging you to win conditions. If you can untap with Jace you can usually get a lot of value from it, however there are many matchups in modern where tapping out for a 4-drop which doesn't affect the board match is not good.
-* Hunting Wilds vs Kodama's Reach - There's always one of these two in the deck, but there are pros and cons for both. Hunting Wilds has the advantage of being a genuine win condition in its own right, working under a Blood Moon and sometimes just naturally triggering Valakuts. It also puts two lands straight into play. The argument for Kodama's Reach is that you can Bring it to Light with only three colours. While you only get one into play (and it can only get basics), it is often the case that by land 7 you don't have another land to play from hand anyway, which means it's not a downside, and can even be an upside, since the second one can come into play untapped.
+* [Madcap Experiment](https://scryfall.com/search?q=Madcap%20Experiment) - This one-card combo with [Platinum Emperion](https://scryfall.com/search?q=Platinum%20Emperion) can be fetched by Bring to Light as early as turn three. It's excellent against burn (one of the few ways to have a good pre-board matchup against them) and Elves (which is a free win game one). It's also very good against the other creature and tribal decks, although they will often have some way to remove it, so you may have a choice of whether to fetch this or your sweeper if you're casting Bring to Light. Other matchups it can be a road bump (storm needs +8 and can't win with goblins, ad naus can't win with Lightning Storm) and removing it with Path does accelerate you to Scapeshift. The downside of Madcap is poor hands when you draw the Platinum Emperion, slightly increasing the number of hands you'll need to mulligan. It is possible to hard cast, however, so drawing it isn't terminal.
+* [Jace, the Mind Sculptor](https://scryfall.com/search?q=Jace,%20the%20Mind%20Sculptor) - Jace is in the abstract a very good card and is also very castable in this deck. You can't get it with Bring to Light, but it is very good at digging you to win conditions. If you can untap with Jace you can usually get a lot of value from it, however there are many matchups in modern where tapping out for a 4-drop which doesn't affect the board match is not good.
+* [Hunting Wilds](https://scryfall.com/search?q=Hunting%20Wilds) vs [Kodama's Reach](https://scryfall.com/search?q=Kodama's%20Reach) - There's always one of these two in the deck, but there are pros and cons for both. Hunting Wilds has the advantage of being a genuine win condition in its own right, working under a Blood Moon and sometimes just naturally triggering Valakuts. It also puts two lands straight into play. The argument for Kodama's Reach is that you can Bring it to Light with only three colours. While you only get one into play (and it can only get basics), it is often the case that by land 7 you don't have another land to play from hand anyway, which means it's not a downside, and can even be an upside, since the second one can come into play untapped.
 
 These are the alternative win conditions played in the main deck. There will always be several more creatures available to bring in post board to try and play around hate for your main plan, as well as for their disruptive utility. For more on those, see Sideboard cards.
 
-Utility:
+**Utility cards:**
 
-* Snapcaster Mage - Snapcaster Mage is great at rebuying ramp, counters, removal and early Bring to Lights which got board control into being win conditions. It combos particularly well with Cryptic Command and there should always be at least one in the deck. Two is very reasonable although you don't normally go above that.
-* Worldly Counsel - This is usually Impulse and almost always at least Anticipate. The ability to get any type is important as you're often looking for lands as much as spells. For pure ability to dig this is probably the best option and in the standard Blue builds I'd probably recommend one or two.
-* Search for Azcanta - In theory Search is great. Filtering early and late it ramps you and digs for win conditions. It can be a little slow to get online, however. When you're using counterspells you're typically filling your graveyard a little slower, particularly with only four fetches. I wouldn't play more than one in the base Blue builds. In the discard-focussed list it's a bit better, since you're both filling your graveyard faster and slowing down the opponent's plan to allow it time to get online.
-* Farseek - You often want a tenth ramp spell and this is the default with no other considerations. It fetches all of your duals, particularly if you're playing the one you can't fetch with your fetch lands (eg Blood Crypt with Mistys).
-* Prismatic Omen - Prismatic Omen can be a bit like a ramp spell, with some upside. It doesn't get you to an early Bring to Light quicker, which is a big downside, given the speed of the format, particularly post board when you want to hit your silver bullets. However, it allows you to scapeshift off 6 lands, fixes for Cryptic Command, even under a Blood Moon (it goes on timestamps) and can give you some higher damage lines if your opponent is on a high life total or you're short on mountains. Probably best in a three-Scapeshift, no one-ofs build.
-* Growth Spiral - The newest entrant here. A good card in an unknown meta, not great but not terrible against anything. It allows you to hold up remand on turn 2 without foregoing ramp, but does require you to have the extra land already to put into play. Good with Snapcaster Mage, but likely to always be your first cut when sideboarding. You're unlikely to play more than Two.
+* [Snapcaster Mage](https://scryfall.com/search?q=Snapcaster%20Mage) - Snapcaster Mage is great at rebuying ramp, counters, removal and early Bring to Lights which got board control into being win conditions. It combos particularly well with Cryptic Command and there should always be at least one in the deck. Two is very reasonable although you don't normally go above that.
+* [Worldly Counsel](https://scryfall.com/search?q=Worldly%20Counsel) - This is usually Impulse and almost always at least Anticipate. The ability to get any type is important as you're often looking for lands as much as spells. For pure ability to dig this is probably the best option and in the standard Blue builds I'd probably recommend one or two.
+* [Search for Azcanta](https://scryfall.com/search?q=Search%20for%20Azcanta) - In theory Search is great. Filtering early and late it ramps you and digs for win conditions. It can be a little slow to get online, however. When you're using counterspells you're typically filling your graveyard a little slower, particularly with only four fetches. I wouldn't play more than one in the base Blue builds. In the discard-focussed list it's a bit better, since you're both filling your graveyard faster and slowing down the opponent's plan to allow it time to get online.
+* [Farseek](https://scryfall.com/search?q=Farseek) - You often want a tenth ramp spell and this is the default with no other considerations. It fetches all of your duals, particularly if you're playing the one you can't fetch with your fetch lands (eg Blood Crypt with Mistys).
+* [Prismatic Omen](https://scryfall.com/search?q=Prismatic%20Omen) - Prismatic Omen can be a bit like a ramp spell, with some upside. It doesn't get you to an early Bring to Light quicker, which is a big downside, given the speed of the format, particularly post board when you want to hit your silver bullets. However, it allows you to scapeshift off 6 lands, fixes for Cryptic Command, even under a Blood Moon (it goes on timestamps) and can give you some higher damage lines if your opponent is on a high life total or you're short on mountains. Probably best in a three-Scapeshift, no one-ofs build.
+* [Growth Spiral](https://scryfall.com/search?q=Growth%20Spiral) - The newest entrant here. A good card in an unknown meta, not great but not terrible against anything. It allows you to hold up remand on turn 2 without foregoing ramp, but does require you to have the extra land already to put into play. Good with Snapcaster Mage, but likely to always be your first cut when sideboarding. You're unlikely to play more than Two.
 
-Suggested lists:
+**Suggested lists:**
 
-* [Black to Light]()
-* [Bring to White]()
+* [Black to Light](../decklists/Bring to Light - RUG splash Black)
+* [Bring to White](../decklists/Bring to Light - RUG splash White)
 
 ## Base-Black variants
 
-Mana base:
+**Mana base:**
 
 For Black builds the mana base options are Verdant Catacombs, Blood Crypt and 1 Island, 2 Mountains, 3 Forest and 2 Swamps. The flex slot is either Steam Vents or Overgrown Tomb depending on the number of Mountains you want (see above) and Green/Black sources. Without Cryptic the mana costs are a little easier to cast, so we only need 3 U/B sources not 4.
 
-Discard:
+**Discard:**
 
-The reason to play the base-Black build is when you think that discard spells are more powerful than counterspells. You want to run at least five, above that you can flex between removal and discard as you want. Thoughtseize is definitely the most powerful and the format staple for the effect, with Inquisition of Kozilek as the obvious second choice. You might want a split more like 3 Thoughtseize, 2 Inquisition to try and preserve your life total a little, rather than necessarily all four Thoughtseize.
+The reason to play the base-Black build is when you think that discard spells are more powerful than counterspells. You want to run at least five, above that you can flex between removal and discard as you want. [Thoughtseize](https://scryfall.com/search?q=Thoughtseize) is definitely the most powerful and the format staple for the effect, with [Inquisition of Kozilek](https://scryfall.com/search?q=Inquisition%20of%20Kozilek) as the obvious second choice. You might want a split more like 3 Thoughtseize, 2 Inquisition to try and preserve your life total a little, rather than necessarily all four Thoughtseize.
 
-Removal choices:
+**Removal choices:**
 
-One of the important things to note about discard over counterspells is that it's worse in matchups where they can topdeck big haymakers. In modern this largely means Tron. The printing that has made this setup possible is Assassin's Trophy, which gives you a main-deck way to keep them off their big mana engine. It also allows you to have main-deck outs to Blood Moon. A good number of Assassin's Trophy is required to shore up the Tron matchup.
+One of the important things to note about discard over counterspells is that it's worse in matchups where they can top-deck big haymakers. In modern this largely means Tron. The printing that has made this setup possible is [Assassin's Trophy](https://scryfall.com/search?q=Assassin's%20Trophy), which gives you a main-deck way to keep them off their big mana engine. It also allows you to have main-deck outs to Blood Moon. A good number of Assassin's Trophy is required to shore up the Tron matchup.
 
-Having a mana base which supports early black also allows you to go heavy on black-based removal such as Fatal Push. Running a 3/3 split of Push and Trophy as your point-removal suite is very reasonable. You will also want to have the standard one Damnation and probably an Anger of the Gods, which is again easier to have the mana for when you don't have any triple colour in the deck.
+Having a mana base which supports early black also allows you to go heavy on black-based removal such as [Fatal Push](https://scryfall.com/search?q=Fatal%20Push). Running a 3/3 split of Push and Trophy as your point-removal suite is very reasonable. You will also want to have the standard one Damnation and probably an Anger of the Gods, which is again easier to have the mana for when you don't have any triple colour in the deck.
 
-Utility choices:
+**Utility choices:**
 
-One of the effects of playing discard is to fill your graveyard quicker and also slow the opponent's game plan. As such, I think that Search for Azcanta is quite a bit better in this version than the blue ones. The other card which gains Snapcaster Mage and I would go up to two of those in this version. Other than that I'd probably try and keep blue spells to a minimum and focus on the Red, Green and Black, although you'll also have some more blue spells in the sideboard
+One of the effects of playing discard is to fill your graveyard quicker and also slow the opponent's game plan. As such, I think that [Search for Azcanta](https://scryfall.com/search?q=Search%20for%20Azcanta) is quite a bit better in this version than the blue ones. The other card which gains Snapcaster Mage and I would go up to two of those in this version. Other than that I'd probably try and keep blue spells to a minimum and focus on the Red, Green and Black, although you'll also have some more blue spells in the sideboard
 
-Suggested list:
+**Suggested list:**
 
-[Jund to Light]()
+[Jund to Light](../decklists/Bring to Light - Jund)
 
 ## Sideboard cards
 
@@ -166,7 +166,7 @@ Madcap Experiment is one of the things which varies between pilots. Most people 
 
 Your sideboard will need a mix of the things below. Graveyard hate can be skipped in appropriate metas, but you'll want some things from all the categories below. One of the main things to do is to ensure you have alternative threats for game two since many people will be finding ways to interact with your main plan. After that you want to look at the number of cards which may be dead in some matchups and that you have enough replacements. It's very common in this deck to sideboard a large number of cards in each matchup, since game 1 you have a lot of generic cards and you'll want to also pivot your plan somewhat.
 
-Making cuts:
+**Making cuts:**
 
 In the base Blue build you'll cut Remand a lot, because it's bad in many matchups. Control, Combo and Tron are the exceptions. Cryptic also gets cut in a number of matchups where they'll be putting pressure on your mana base. In all builds you'll cut all the removal spells in matchups they're dead.
 
@@ -174,57 +174,57 @@ Outside of the interaction suite (which you're just trying to improve for the ma
 
 It can also be OK to cut a land on the draw - often a Basic Mountain. You have to be in a matchup where you don't worry about running out of mountains and they're not attacking your mana with cards like Field of Ruin. Matchups with Death's Shadow where you just need to be threat-dense can be good candidates. You can also afford to cut a little more ramp in those cases.
 
-Graveyard:
+**Graveyard:**
 
 Dredge, Phoenix and Hollow One are all real decks and can be hard to deal with for us. While they're very common we need to have a significant number of cards for them. Sideboard space is tight, but it's not unreasonable to have up to 6 cards in the 75 once you include Anger of the Gods. A combination of the cards below can be good.
 
-* Leyline of the Void - Leyline is best against the fast graveyard decks like Phoenix and less good against Dredge because of the amount of removal for it they pack. It's also the one you need to play most of and can't be fetched with Bring to Light.
-* Rest in Peace - The best option if you're playing white since it comes down early enough, but you don't have to start it in your opener. It also can't be fetched with Bring to Light.
-* Ravenous Trap - Gives you turn-1 interaction and can get a variety of things on the turn you play it. It is a one-shot effect rather than ongoing, but it can be fetched with Bring to Light to reset their graveyard. Hard for the opponent to interact with.
-* Surgical Extraction - Best in matchups without reduntant pieces. Dredge can survive a surgical, but it's good again Phoenix and reanimator. Less useful to Bring to Light, since it often requires being well timed and doesn't wipe out their whole graveyard.
-* Yixlid Jailer - Best against Dredge since you'll often have time to play it and it shuts down a lot of their plan. Doesn't die to as much removal as Leyline or RIP. Can be Brought to Light.
-* Anger of the Gods - Anger is a good flexible card as just straight removal, but the exile effect makes it an important card for the graveyard decks as well. Often fetched with Bring to Light.
+* [Leyline of the Void](https://scryfall.com/search?q=Leyline%20of%20the%20Void) - Leyline is best against the fast graveyard decks like Phoenix and less good against Dredge because of the amount of removal for it they pack. It's also the one you need to play most of and can't be fetched with Bring to Light.
+* [Rest in Peace](https://scryfall.com/search?q=Rest%20in%20Peace) - The best option if you're playing white since it comes down early enough, but you don't have to start it in your opener. It also can't be fetched with Bring to Light.
+* [Ravenous Trap](https://scryfall.com/search?q=Ravenous%20Trap) - Gives you turn-1 interaction and can get a variety of things on the turn you play it. It is a one-shot effect rather than ongoing, but it can be fetched with Bring to Light to reset their graveyard. Hard for the opponent to interact with.
+* [Surgical Extraction](https://scryfall.com/search?q=Surgical%20Extraction) - Best in matchups without reduntant pieces. Dredge can survive a surgical, but it's good again Phoenix and reanimator. Less useful to Bring to Light, since it often requires being well timed and doesn't wipe out their whole graveyard.
+* [Yixlid Jailer](https://scryfall.com/search?q=Yixlid%20Jailer) - Best against Dredge since you'll often have time to play it and it shuts down a lot of their plan. Doesn't die to as much removal as Leyline or RIP. Can be Brought to Light.
+* [Anger of the Gods](https://scryfall.com/search?q=Anger%20of%20the%20Gods) - Anger is a good flexible card as just straight removal, but the exile effect makes it an important card for the graveyard decks as well. Often fetched with Bring to Light.
 
-Life gain:
+**Life gain:**
 
 Burn is a tough matchup. Madcap experiment (particularly main) makes it better, but you also need some life gain. There are also other aggro decks where gaining life is important to tide you over until you can win. Most of the cards we run here double up under some of the other categories.
 
-* Obstinate Baloth - The best default choice. A good backup threat which outsizes most aggro cards and 4 life is a decent chunk. Great for getting with Bring to Light. Also very good against Liliana of the Veil and Smallpox.
-* Pulse of Murasa - Can re-buy your other threats including Steve for ramp or just a fetch land if you don't have a land drop in hand. Biggest life swing. 
-* Huntmaster of the Fells - Gives you two bodies for matchups where they could answer a Baloth. Very good against control if they can't answer it. Two life isn't so much though. It is easier to cast under a Blood Moon, however.
-* Timely Reinforcements - An option for the White versions. Good life swing and also gives you blockers on board. Unlikely to win the game, however.
-* Lone Missionary - If you need early life gain in White this is a good choice which gives you a reasonable blocker for small creatures.
+* [Obstinate Baloth](https://scryfall.com/search?q=Obstinate%20Baloth) - The best default choice. A good backup threat which outsizes most aggro cards and 4 life is a decent chunk. Great for getting with Bring to Light. Also very good against Liliana of the Veil and Smallpox.
+* [Pulse of Murasa](https://scryfall.com/search?q=Pulse%20of%20Murasa) - Can re-buy your other threats including Steve for ramp or just a fetch land if you don't have a land drop in hand. Biggest life swing. 
+* [Huntmaster of the Fells](https://scryfall.com/search?q=Huntmaster%20of%20the%20Fells) - Gives you two bodies for matchups where they could answer a Baloth. Very good against control if they can't answer it. Two life isn't so much though. It is easier to cast under a Blood Moon, however.
+* [Timely Reinforcements](https://scryfall.com/search?q=Timely%20Reinforcements) - An option for the White versions. Good life swing and also gives you blockers on board. Unlikely to win the game, however.
+* [Lone Missionary](https://scryfall.com/search?q=Lone%20Missionary) - If you need early life gain in White this is a good choice which gives you a reasonable blocker for small creatures.
 
-Alternative threats:
+**Alternative threats:**
 
 Huntmaster and Baloth from the Lifegain section along with Glen Elendra (see below) are our main alternative threats, along with Madcap Experiment and Hunting Wilds if you're playing them. There are a few others that are worth mentioning.
 
-* Chameleon Colossus - Good when all their removal is Black (such as BGx decks), great if their threats are also Black, such as in Grixis Deaths Shadow. Worth a slot if that's significant in the meta, since it can be a hard matchup otherwise.
-* Vendilion Clique - Great in many matchups, particularly control, combo and Shadow where it can provide just enough damage and has evasion. In base-Blue bulids I'll usually run two.
-* Tireless Tracker - Good value creature, particularly in midrange matchups. Doesn't gain life, but can draw a lot of cards if unanswered.
+* [Chameleon Colossus](https://scryfall.com/search?q=Chameleon%20Colossus) - Good when all their removal is Black (such as BGx decks), great if their threats are also Black, such as in Grixis Deaths Shadow. Worth a slot if that's significant in the meta, since it can be a hard matchup otherwise.
+* [Vendilion Clique](https://scryfall.com/search?q=Vendilion%20Clique) - Great in many matchups, particularly control, combo and Shadow where it can provide just enough damage and has evasion. In base-Blue bulids I'll usually run two.
+* [Tireless Tracker](https://scryfall.com/search?q=Tireless%20Tracker) - Good value creature, particularly in midrange matchups. Doesn't gain life, but can draw a lot of cards if unanswered.
 
-Silver bullets:
+**Silver bullets:**
 
 Bring to Light allows us to run one card in the sideboard and have effectively five copies of in, so we can run one-of silver bullets which are good in specific matchups. I wouldn't play anything I could only cast with Bring to Light though.
 
-* Shatterstorm - An automatic include. Great against affinity, Whir and Lantern. The regeneration clause is definitely relevant and you shouldn't play Creeping Corrosion instead.
-* Crumble to Dust - Turns of Tron's mana engine which gives you a lot of extra time and can snag Valakuts against RG builds, but also the mirror. Also worth bringing in for matchups that lean heavily on creature lands like infect, UW control and affinity. 
-* Slaughter Games and Unmoored Ego - For the combo matchups. Best against Ad Nauseam, but also good for Living End and Storm.
-* Glen Elendra Archmage - A counterspell which can be preemptively wished for. Listed here because of how great it is against control and combo. All of those matchups find it very hard to win with a Glen in play, since it either turns off their whole plan, or protects the rest of your spells.
-* Madcap Experiment - Mentioned already, but it's a great silver bullet against Burn and creature matchups which can't answer it. Also stops Ad Naus from winning with Lightning Storm and Storm from winning with Goblins.
-* Back to Nature - Beats Bogles and also opposing leylines. Can be a card to answer Blood Moons, but I'd probably only run it if Bogles was big in the meta since the more flexible cards can answer single cards like Blood Moon.
+* [Shatterstorm](https://scryfall.com/search?q=Shatterstorm) - An automatic include. Great against affinity, Whir and Lantern. The regeneration clause is definitely relevant and you shouldn't play Creeping Corrosion instead.
+* [Crumble to Dust](https://scryfall.com/search?q=Crumble%20to%20Dust) - Turns of Tron's mana engine which gives you a lot of extra time and can snag Valakuts against RG builds, but also the mirror. Also worth bringing in for matchups that lean heavily on creature lands like infect, UW control and affinity. 
+* [Slaughter Games](https://scryfall.com/search?q=Slaughter%20Games) and [Unmoored Ego](https://scryfall.com/search?q=Unmoored%20Ego) - For the combo matchups. Best against Ad Nauseam, but also good for Living End and Storm.
+* [Glen Elendra Archmage](https://scryfall.com/search?q=Glen%20Elendra%20Archmage) - A counterspell which can be preemptively wished for. Listed here because of how great it is against control and combo. All of those matchups find it very hard to win with a Glen in play, since it either turns off their whole plan, or protects the rest of your spells.
+* [Madcap Experiment](https://scryfall.com/search?q=Madcap%20Experiment) - Mentioned already, but it's a great silver bullet against Burn and creature matchups which can't answer it. Also stops Ad Naus from winning with Lightning Storm and Storm from winning with Goblins.
+* [Back to Nature](https://scryfall.com/search?q=Back%20to%20Nature) - Beats Bogles and also opposing leylines. Can be a card to answer Blood Moons, but I'd probably only run it if Bogles was big in the meta since the more flexible cards can answer single cards like Blood Moon.
 
-Removal:
+**Removal:**
 
 Some removal has already been mentioned, such as Anger of the Gods, Back to Nature and Shatterstorm. Here are some other options
 
-* Maelstrom Pulse - A good catchall answer which often has a spot in the sideboard if it's not in the main deck. You need an effect like this somewhere (mostly available if you're in Black). Possibly replaced by Assassin's Trophy, but this will get multiples.
-* Izzet Staticaster - Shuts down a number of strategies. Have this as your answer to Empty the Warrens since it's repeatable and they can flash it back. Very good against Elves, Infect and Affinity.
-* Destructive Revelry - For White builds that don't have so many answers to random permanents this is an answer to Blood Moon which also flexes to artifacts.
-* Ancient Grudge - If affinity is big and you need more removal spells this gives you two shots. It's also harder to deal with for Lantern since they can't just mill it.
-* Rending Volley - An option if the restricted colours and uncounterability is useful.
+* [Maelstrom Pulse](https://scryfall.com/search?q=Maelstrom%20Pulse) - A good catchall answer which often has a spot in the sideboard if it's not in the main deck. You need an effect like this somewhere (mostly available if you're in Black). Possibly replaced by Assassin's Trophy, but this will get multiples.
+* [Izzet Staticaster](https://scryfall.com/search?q=Izzet%20Staticaster) - Shuts down a number of strategies. Have this as your answer to Empty the Warrens since it's repeatable and they can flash it back. Very good against Elves, Infect and Affinity.
+* [Destructive Revelry](https://scryfall.com/search?q=Destructive%20Revelry) - For White builds that don't have so many answers to random permanents this is an answer to Blood Moon which also flexes to artifacts.
+* [Ancient Grudge](https://scryfall.com/search?q=Ancient%20Grudge) - If affinity is big and you need more removal spells this gives you two shots. It's also harder to deal with for Lantern since they can't just mill it.
+* [Rending Volley](https://scryfall.com/search?q=Rending%20Volley) - An option if the restricted colours and uncounterability is useful.
 
-Counter magic:
+**Counter magic:**
 
 It's usually right to have some other more specific counterspells in the board. Usually these aren't for creatures so the main candidates are Negate and Dispel. Both are good, but the flexibility of Negate is good and we usually have the spare mana. A 2/1 or 3/1 split can be right, or just all Negates.
 
