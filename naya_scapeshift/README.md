@@ -34,15 +34,33 @@ BBE is definitely a great card but it requires a real deck building restriction 
 
 In the Naya version, cards like Nahiri and BBE have a higher floor, but of course in some situations a lower ceiling too. Think about KHE vs Nahiri - Nothing beats the ramping of a turn two KHE, allowing you some ridiculous number of lands turn 4 for an easy lethal Scapeshift. But, you will feel the pain of topdecking a KHE on turn 4 when you need action. Nahiri can bring a little bit of everything; she can have the same explosive nature as the KHE, ultimating turn 5 (slower than KHE, of course) and can single handedly win the game. But, compared to KHE, she will always be a decent topdeck later with multiple options. You can also think about Explore - the draw and the extra land drop are great, if you can make it. But in some ways I think that's what BBE is doing when she flips Farseek and deal 3 damage, assuming I would have draw bolt from explore for example. So overall we are doing the same things, just not the same ways. As I increased the average CMC of the Naya version, even if it might sometimes slow it a bit, it increase my options and my potential plays according to the situation's need. We also increased the total number of threats in the deck, which is something that bothered me sometimes. I don't like waiting for one of the 10 win condition and just lose if I can't find one of them.
 
+
+	How to Scapeshift? How many Valakuts do I need? What card should I worry about?
+    
+The basic maths for Scapeshift are simple. If you want to maximise the amount of damage, you will take six mountains plus the maximum number of Valakuts. If some are already in play, keep them and add more mountains, if possible. 
+Note that sometimes, if games are long, you will have to play with these numbers. Considering the number of mountains and valakuts in play and in your library. For example, if I have 10 Mountains in play - 3 mountain and 4 Valakuts in the deck - the maximum amount of damage I can produce is 3 Mountains x 4 Valakuts x 3 Damage = 36. I will sacrifice 7 lands, keeping at least 3 Mountain in play. So my 3 Mountains entering the field will see the others and trigger all 4 Valakuts three times. As everything in our deck will deal a multiple of 3 (Bolt, BBE, Valakut, Titan), it sometimes help to think about the damage in number of triggers and not in actual numbers. I'm just focusing on “I need x trigger to win”.
+
+It is possible to interact with Valakut triggers, not by removing Valakut itself but the Mountains. If they can reduce your number of mountain to 5 or lower, all except one triggers will fizzle on resolution as the trigger from the mountain they removed will still see the other 5 mountains. You need to pay attention to theses cards:
+
+* Field of Ruin or Ghost Quarter - Will work the exact same way with the combo: You will need to have 1 basic mountain in your deck per land to keep the triggers.
+* Fulminator mage - You will see it coming, just fetch one more Mountain
+* Cryptic Command - some tricky player might let you resolve it on 7 lands and just bounce one mountain on resolution taking only 3 damage. This way they will get rid of many potential triggers and might put you in a weird spot if you just fetched all basics to close the game.
+* Beast within - Not played that much but pay attention to it vs Living End.
+
+	
 	What about the Sideboard then?
 
 As always, modern has been a meta of sideboard and I feel like you only have two real options to have a successful sideboard strategy: 1) To be as linear and non interactive as possible. Build your sideboard to stick to you main game plan and dodge the hate/side of your opponent. -> What RG is doing right now. 2) Build a deck that's flexible enough to adapt to most situations -> What Naya is starting to do. Both options are fine, the second one just fits my play style better.
 
 Ever since I knew I would like to exploit BBE as much as possible, I tried to build the mainboard and the sideboard in a way that would make her even stronger. As you guessed already, we will be mostly looking at cards with a CMC of 3 or less. Also, we can go even deeper in that strategy by shaving some number ramp or interaction spells. Thus, increasing the odds of finding our sideboard and the sideboard efficiency. 
 
-More details about the sideboard in the dedicated section below.
-
 It is also important to know who you will be playing against and what you are preparing for. If you are a kitchen table player and know you will be playing your friend on Burn, Tron and UW Control, you might want to adapt your sideboard accordingly. I like to have a look at MTG top 8 to see what the big picture is and adapt my sideboard for my next big event. Note also that it's important to know yourself as a player and try to understand the most optimal way of playing for you. I know for a fact that I won't be a good Bring to Light player because it's not the kind of things I like to do, I'm way too proactive as a player to keep a Cryptic or a Remand in my hand. The right play won't always appear to me as naturally because it doesn't match my usual thought process.
+
+*More details about the sideboard in the dedicated section below.*
+
+
+	Quick note on the mulligan 
+You should have some acceleration to reach you end game faster. However, you may already know that in some matchups it's more important to be able to first stabilise. Trying to do so might force you to keep some hands without acceleration but interactions/sideboard cards. Make sure to know what role you should have in different matchups. As a rule of thumb you can always assume you will need to take the control seat vs decks faster than you and adopt an aggressive gameplan when facing slower decks. About that one lander opening... I would never keep a one lander, unless I have an untap green source, with multiple Search for Tommrows, on the draw with a Scry (if you are at 7 there is plenty of stronger 6 cards hands). We need to reach a critical mass of lands and while our first mulligan is usually not harmful we need still need at least 8 cards to combo (Scapeshift and 7 lands). Consider mulliganing aggressively when you are facing a deck that can kill you before turn 3/4 and against which you MUST have interaction (Storm for example). You must also know that you are playing a dangerous game - you could find you interaction in the next hand, or not. May the odds be ever in your favour.
 
 I would like to finish this introduction by saying that evolution is a perpetual process that drives all brewers to make something new or better. So please, brew as much as you can, let the Johnny in you express him/herself as much as possible! If you find a new innovation, specially about NayaShift, please let us know!
 
@@ -97,7 +115,8 @@ Except the interaction pieces I don't think this deck has a lot of flex slots to
 * Interaction (6) - Lightning bolt and Lightning helix. These one are 100% meta dependant so pick the best for your meta. Note that it's a real plus if you can keep the cascade always relevant: Slagstorm is a good example as it can be cast to wipe the board vs creatures matchups and it can be cast face vs creatureless decks. Bonus points vs UW - it kills Geist.
 * Win condition (15) - BBE, Titan, Nahiri, and Scapeshift. All of these cards will stay in most everytime you go to board. The only exception to this is BBE. BBE can be shaved in some MUs.
 
-*Maybeboard (Mainboard and Sideboard) - To be update as my testing goes*
+
+	Maybeboard (Mainboard and Sideboard) - To be update as my testing goes
 
 Even if we are primarily looking at spells that will be below 3 CMC, it is sometimes worth it to find some amazing sideboard card that will crush our opponent anyway. We will be looking at the power level of Crumble to Dust in the mirror or vs Tron for example. Card with a CMC of 4 are still really interesting as we might be able to play them on turn three consistently.
 
@@ -244,22 +263,6 @@ W/B Eldrazi Taxes
 * Take the draw in this matchup. Knight of Autumn is a beast and will buy you a lot of time and life against their Rack-effects. BBE and tracker are your best cards as they have trouble dealing with them plus the extra cards.
 
 
-
-
-**Gameplay, Tips and tricks - Corner case situations**
-
-Quick note on the mulligan - as said in the introduction you should be trying to have some acceleration to reach you end game faster. However, you may already know that in some matchups it's more important to be able to first stabilise. Trying to do so might force you to keep some hands without acceleration but interactions/sideboard cards. Make sure to know what role you should have in different matchups. As a rule of thumb you can always assume you will need to take the control seat vs decks faster than you and adopt an aggressive gameplan when facing slower decks.
-
-	How to Scapeshift? How many Valakuts do I need? What card should I worry about?
-    
-The basic maths for Scapeshift are simple. If you want to maximise the amount of damage, you will take six mountains plus the maximum number of Valakuts. If some are already in play, keep them and add more mountains, if possible. 
-Note that sometimes, if games are long, you will have to play with these numbers. Considering the number of mountains and valakuts in play and in your library. For example, if I have 10 Mountains in play - 3 mountain and 4 Valakuts in the deck - the maximum amount of damage I can produce is 3 Mountains x 4 Valakuts x 3 Damage = 36. I will sacrifice 7 lands, keeping at least 3 Mountain in play. So my 3 Mountains entering the field will see the others and trigger all 4 Valakuts three times. As everything in our deck will deal a multiple of 3 (Bolt, BBE, Valakut, Titan), it sometimes help to think about the damage in number of triggers and not in actual numbers. I'm just focusing on “I need x trigger to win”.
-
-It is possible to interact with Valakut triggers, not by removing Valakut itself but the Mountains. If they can reduce your number of mountain to 5 or lower, all except one triggers will fizzle on resolution as the trigger from the mountain they removed will still see the other 5 mountains. You need to pay attention to theses cards:
-
-* Field of Ruin or Ghost Quarter - Will work the exact same way with the combo: You will need to have 1 basic mountain in your deck per land to keep the triggers.
-* Fulminator mage - You will see it coming, just fetch one more Mountain
-* Cryptic Command - some tricky player might let you resolve it on 7 lands and just bounce one mountain on resolution taking only 3 damage. This way they will get rid of many potential triggers and might put you in a weird spot if you just fetched all basics to close the game.
-* Beast within - Not played that much but pay attention to it vs Living End.
+Thanks a lot for reading. If you any question you can find me on the Valakut Discord: https://discord.gg/EqXnNwJ
 
 
