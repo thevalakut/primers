@@ -309,6 +309,8 @@ Don't keep in answers to Lab Man, since if they get that far they have probably 
 
 Slaughter Games will usually name Ad Nauseam unless you have a specific reason not to. The Vendilion Cliques gives you an early piece of disruption which can give you a clock while you hold up counterspells for their combo. Glen does the same while also providing counterspells that their Pacts of Negation don't answer and is possibly the best card in the matchup.
 
+The Scapeshift win against this deck is so risky that unless you're playing with discard to clear the way it can be right to cut all the Scapeshifts and one or two Bring to Lights, relying on making creatures and holding up interaction.
+
 **Storm**
 
 Storm plays similar to Ad Nauseam. Their answers to your combo are remand, which you can at least respond to, and your removal spells are not dead main deck since killing their creatures is crucial. Your Madcap answers Empty the Warrens if they try and win via that route. It's another deck that you have to be careful tapping out against, since they can win on the spot if they untap with a creature in play and sometimes with nothing in play if they have 4 or even 3 lands available.
