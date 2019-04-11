@@ -40,8 +40,8 @@
 
 **Sideboard**
 
-* 1x [Ancient Grudge](https://scryfall.com/search?q=Ancient%20Grudge)
-* 2x [Blessed Alliance](https://scryfall.com/search?q=Blessed%20Alliance)
+* 1x [Blessed Alliance](https://scryfall.com/search?q=Blessed%20Alliance)
+* 2x [Knight of Autumn](https://scryfall.com/search?q=Knight%20Of%20Autumn)
 * 1x [Chameleon Colossus](https://scryfall.com/search?q=Chameleon%20Colossus)
 * 1x [Crumble to Dust](https://scryfall.com/search?q=Crumble%20to%20Dust)
 * 1x [Madcap Experiment](https://scryfall.com/search?q=Madcap%20Experiment)

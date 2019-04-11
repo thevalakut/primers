@@ -221,6 +221,7 @@ Bring to Light allows us to run one card in the sideboard and have effectively f
 Some removal has already been mentioned, such as Anger of the Gods, Back to Nature and Shatterstorm. Here are some other options
 
 * [Maelstrom Pulse](https://scryfall.com/search?q=Maelstrom%20Pulse) - A good catchall answer which often has a spot in the sideboard if it's not in the main deck. You need an effect like this somewhere (mostly available if you're in Black). Possibly replaced by Assassin's Trophy, but this will get multiples.
+* [Knight of Autumn](https://scryfall.com/search?q=Knight%20Of%20Autumn) - A great versatile choice for the white build. Doubles up as your life gain slot as well as your removal for Blood Moon and other problematic permanents. Can be brought to light and reasonable to run in multiples,
 * [Izzet Staticaster](https://scryfall.com/search?q=Izzet%20Staticaster) - Shuts down a number of strategies. Have this as your answer to Empty the Warrens since it's repeatable and they can flash it back. Very good against Elves, Infect and Affinity.
 * [Destructive Revelry](https://scryfall.com/search?q=Destructive%20Revelry) - For White builds that don't have so many answers to random permanents this is an answer to Blood Moon which also flexes to artifacts.
 * [Ancient Grudge](https://scryfall.com/search?q=Ancient%20Grudge) - If affinity is big and you need more removal spells this gives you two shots. It's also harder to deal with for Lantern since they can't just mill it.
