@@ -17,7 +17,7 @@
 
 **Sorcery**
 
-* 2x [Anger of the Gods](https://scryfall.com/search?q=Anger%20of%20the%20Gods)
+* 1x [Anger of the Gods](https://scryfall.com/search?q=Anger%20of%20the%20Gods)
 * 4x [Bring to Light](https://scryfall.com/search?q=Bring%20to%20Light)
 * 1x [Damnation](https://scryfall.com/search?q=Damnation)
 * 1x [Hunting Wilds](https://scryfall.com/search?q=Hunting%20Wilds)
@@ -31,12 +31,15 @@
 
 * 1x [Platinum Emperion](https://scryfall.com/search?q=Platinum%20Emperion)
 * 4x [Sakura-Tribe Elder](https://scryfall.com/search?q=Sakura-Tribe%20Elder)
-* 2x [Snapcaster Mage](https://scryfall.com/search?q=Snapcaster%20Mage)
+* 1x [Snapcaster Mage](https://scryfall.com/search?q=Snapcaster%20Mage)
+* 1x [Kess, Dissident Mage](https://scryfall.com/search?q=Kess,%20Dissident%20Mage)
 
 **Instant**
 
 * 3x [Assassin's Trophy](https://scryfall.com/search?q=Assassin's%20Trophy)
-* 3x [Fatal Push](https://scryfall.com/search?q=Fatal%20Push)
+* 2x [Fatal Push](https://scryfall.com/search?q=Fatal%20Push)
+* 1x [Deathsprout](https://scryfall.com/search?q=Deathsprout)
+* 1x [Jund Charm](https://scryfall.com/search?q=Jund%20Charm)
 
 **Enchantment**
 
@@ -47,10 +50,10 @@
 * 1x [Crumble to Dust](https://scryfall.com/search?q=Crumble%20to%20Dust)
 * 1x [Glen Elendra Archmage](https://scryfall.com/search?q=Glen%20Elendra%20Archmage)
 * 1x [Huntmaster of the Fells](https://scryfall.com/search?q=Huntmaster%20of%20the%20Fells)
-* 1x [Izzet Staticaster](https://scryfall.com/search?q=Izzet%20Staticaster)
-* 3x [Negate](https://scryfall.com/search?q=Negate)
+* 2x [Negate](https://scryfall.com/search?q=Negate)
 * 2x [Obstinate Baloth](https://scryfall.com/search?q=Obstinate%20Baloth)
-* 2x [Ravenous Trap](https://scryfall.com/search?q=Ravenous%20Trap)
-* 1x [Shatterstorm](https://scryfall.com/search?q=Shatterstorm)
 * 1x [Slaughter Games](https://scryfall.com/search?q=Slaughter%20Games)
-* 2x [Yixlid Jailor](https://scryfall.com/search?q=Yixlid%20Jailor)
+* 4x [Leyline of the Void](https://scryfall.com/search?q=Leyline%20of%20the%20Void)
+* 1x [Plague Engineer](https://scryfall.com/search?q=Plague%20Engineer)
+* 1x [Force of Vigor](https://scryfall.com/search?q=Force%20of%20Vigor)
+* 1x [Collector Ouphe](https://scryfall.com/search?q=Collector%20Ouphe)
