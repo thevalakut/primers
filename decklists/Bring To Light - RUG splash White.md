@@ -4,12 +4,11 @@
 
 * 1x [Breeding Pool](https://scryfall.com/search?q=Breeding%20Pool)
 * 1x [Cinder Glade](https://scryfall.com/search?q=Cinder%20Glade)
-* 1x [Flooded Grove](https://scryfall.com/search?q=Flooded%20Grove)
 * 2x [Forest](https://scryfall.com/search?q=Forest)
 * 1x [Hallowed Fountain](https://scryfall.com/search?q=Hallowed%20Fountain)
 * 3x [Island](https://scryfall.com/search?q=Island)
 * 4x [Misty Rainforest](https://scryfall.com/search?q=Misty%20Rainforest)
-* 1x [Mountain](https://scryfall.com/search?q=Mountain)
+* 2x [Mountain](https://scryfall.com/search?q=Mountain)
 * 1x [Plains](https://scryfall.com/search?q=Plains)
 * 4x [Steam Vents](https://scryfall.com/search?q=Steam%20Vents)
 * 4x [Stomping Ground](https://scryfall.com/search?q=Stomping%20Ground)
@@ -22,32 +21,37 @@
 * 1x [Snapcaster Mage](https://scryfall.com/search?q=Snapcaster%20Mage)
 
 **Sorceries**
-* 1x [Anger of the Gods](https://scryfall.com/search?q=Anger%20of%20the%20Gods)
+
 * 4x [Bring to Light](https://scryfall.com/search?q=Bring%20to%20Light)
-* 1x [Farseek](https://scryfall.com/search?q=Farseek)
 * 1x [Kodama's Reach](https://scryfall.com/search?q=Kodama's%20Reach)
-* 3x [Scapeshift](https://scryfall.com/search?q=Scapeshift)
+* 2x [Scapeshift](https://scryfall.com/search?q=Scapeshift)
 * 4x [Search for Tomorrow](https://scryfall.com/search?q=Search%20for%20Tomorrow)
 * 1x [Supreme Verdict](https://scryfall.com/search?q=Supreme%20Verdict)
 
 **Instants**
 
-* 4x [Cryptic Command](https://scryfall.com/search?q=Cryptic%20Command)
-* 2x [Izzet Charm](https://scryfall.com/search?q=Izzet%20Charm)
-* 2x [Lightning Helix](https://scryfall.com/search?q=Lightning%20Helix)
-* 4x [Remand](https://scryfall.com/search?q=Remand)
-* 2x [Worldly Counsel](https://scryfall.com/search?q=Worldly%20Counsel)
+* 2x [Cryptic Command](https://scryfall.com/search?q=Cryptic%20Command)
+* 3x [Remand](https://scryfall.com/search?q=Remand)
+* 2x [Growth Spiral](https://scryfall.com/search?q=Growth%20Spiral)
+* 3x [Path to Exile](https://scryfall.com/search?q=Path%20to%20Exile)
+* 2x [Ojutai's Command](https://scryfall.com/search?q=Ojutai's%20Command)
+* 2x [Lightning Bolt](https://scryfall.com/search?q=Lightning%20Bolt)
+
+**Planeswalkers**
+
+* 1x [Narset, Parter of Veils](https://scryfall.com/search?q=Narset,%20Parter%20of%20Veils)
+* 2x [Teferi, Time Raveler](https://scryfall.com/search?q=Teferi,%20Time%20Raveler)
 
 **Sideboard**
 
-* 1x [Blessed Alliance](https://scryfall.com/search?q=Blessed%20Alliance)
 * 2x [Knight of Autumn](https://scryfall.com/search?q=Knight%20Of%20Autumn)
-* 1x [Chameleon Colossus](https://scryfall.com/search?q=Chameleon%20Colossus)
 * 1x [Crumble to Dust](https://scryfall.com/search?q=Crumble%20to%20Dust)
-* 1x [Madcap Experiment](https://scryfall.com/search?q=Madcap%20Experiment)
-* 2x [Negate](https://scryfall.com/search?q=Negate)
-* 1x [Platinum Emperion](https://scryfall.com/search?q=Platinum%20Emperion)
-* 2x [Rest in Peace](https://scryfall.com/search?q=Rest%20in%20Peace)
+* 3x [Rest in Peace](https://scryfall.com/search?q=Rest%20in%20Peace)
 * 1x [Shatterstorm](https://scryfall.com/search?q=Shatterstorm)
-* 2x [Tireless Tracker](https://scryfall.com/search?q=Tireless%20Tracker)
 * 1x [Vendilion Clique](https://scryfall.com/search?q=Vendilion%20Clique)
+* 1x [Anger of the Gods](https://scryfall.com/search?q=Anger%20of%20the%20Gods)
+* 1x [Dovin's Veto](https://scryfall.com/search?q=Dovin's%20Veto)
+* 2x [Force of Negation](https://scryfall.com/search?q=Force%20of%20Negation)
+* 1x [Glen Elendra Archmage](https://scryfall.com/search?q=Glen%20Elendra%20Archmage)
+* 1x [Huntmaster of the Fells](https://scryfall.com/search?q=Huntmaster%20of%20the%20Fells)
+* 1x [Path to Exile](https://scryfall.com/search?q=Path%20to%20Exile)
